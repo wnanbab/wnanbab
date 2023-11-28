@@ -1,0 +1,5 @@
+- 👋 Hi, I’m wnanbab
+- 👀 I’m a junior student studying to become a programmer
+- 🌱 I’m currently learning C language and smart contract development
+- 💞️ study well and make progress every day
+- 📫 How to reach me -- Earth -help
